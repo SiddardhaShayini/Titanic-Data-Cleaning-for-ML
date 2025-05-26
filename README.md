@@ -6,11 +6,7 @@ This repository contains a step-by-step walkthrough of cleaning, preprocessing, 
 
 The dataset is pulled directly from the [Titanic - Machine Learning from Disaster](https://www.kaggle.com/datasets/yasserh/titanic-dataset) competition. In this project, I use a hosted version via:
 
-```
-
 [https://raw.githubusercontent.com/SiddardhaShayini/Titanic-Data-Cleaning-for-ML/refs/heads/main/Dataset/Titanic-Dataset.csv](https://raw.githubusercontent.com/SiddardhaShayini/Titanic-Data-Cleaning-for-ML/refs/heads/main/Dataset/Titanic-Dataset.csv)
-
-```
 
 ## 🧼 Cleaning & Preprocessing Steps
 
